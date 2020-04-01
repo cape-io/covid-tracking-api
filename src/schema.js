@@ -18,6 +18,7 @@ const typeDefs = gql`
     positive: Int
     negative: Int
     pending: Int
+    hospitalized: Int
     death: Int
     dateModified: Date
     dateChecked: Date
